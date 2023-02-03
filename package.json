@@ -1,0 +1,18 @@
+{
+	"name": "backendnodejsexpress",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.ts"
+	},
+	"keywords": [],
+	"author": "Mateo Díaz <mateodiaz401@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"multer": "^1.4.5-lts.1"
+	}
+}
