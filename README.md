@@ -36,3 +36,5 @@ A documentation was created in swagger and can be viewed at the following url.
 
 
 To see the documentation of the project made with swagger, use the url  [http://localhost:3003/documentation/](http://localhost:3003/documentation/)
+
+you have to create a **storage** folder inside the root folder where the files will be stored
