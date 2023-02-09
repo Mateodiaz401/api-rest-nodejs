@@ -1,2 +1,5 @@
 node_modules
-.svcode
+.vscode
+.env
+package-lock.json
+storage/*
